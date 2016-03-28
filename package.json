@@ -1,0 +1,26 @@
+{
+  "name": "account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achristie/account.git"
+  },
+  "author": "Andrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/achristie/account/issues"
+  },
+  "homepage": "https://github.com/achristie/account#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  }
+}
